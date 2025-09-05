@@ -30,7 +30,7 @@ This repo is the official implementation for DAM
     - [WORD](https://github.com/hilab-git/word)
     - [Adrenal-ACC-Ki67](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257945)
 - All images were sampled from [CT5M](https://ieeexplore.ieee.org/abstract/document/10746534), where the data is in 2D PNG format.
-- We have provided some data examples. Please refer to the file folder [./data_examples](https://github.com/xianlin7/DAM/tree/main/data_examples).
+- We have provided some data examples. Please refer to the file folder [./data_examples](https://github.com/xianlin7/DAM/tree/main/data_examples). You can find examples of text annotations in [Excel1](https://github.com/xianlin7/DAM/blob/main/data_examples/GMIRS/MainPatient/train_examples.xlsx) and [Excel2](https://github.com/xianlin7/DAM/blob/main/data_examples/GMIRS/MainPatient/val_examples.xlsx).
 - The relevant information of your data should be configured in [./utils/config.py](https://github.com/xianlin7/DAM/blob/main/utils/config.py).
 - We will release the dataset in the future 🌝.
 ## Training
